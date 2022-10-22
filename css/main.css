@@ -36,7 +36,6 @@ li {
   font-size: 16px;
   cursor: pointer;
   transition: box-shadow 0.3s,color 0.3s;
-
 }
 
 li:hover {
@@ -70,10 +69,11 @@ ul {
   height: 130px;
   justify-content: space-between;
   align-items: center;
-  border: green;
+  border-inline-end:1px solid #1d1d1d;
 }
 
 .headerParent{
+  display: block;
   background-color: #292929;
   position: absolute;
   left: 0;
@@ -111,6 +111,7 @@ ul {
 .logoFooter{
   margin: 0px;
   margin-bottom: 35px;
+
 }
 .cardTitle,
 .pagingBtn {
