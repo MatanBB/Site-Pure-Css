@@ -10,12 +10,12 @@
 
 @font-face {
   font-family: 'euro-normal';
-  src: url('/Ex/Fonts/eurofurence/eurof35.ttf');
+  src: url('/Ex/Fonts/eurofurence-new/eurof35.woff');
 }
 
 @font-face {
   font-family: 'euro-regular';
-  src: url('/Ex/Fonts/eurofurence__regular/eurofurence__regular/eurof55.ttf');
+  src: url('/Ex/Fonts/eurofurence-new/eurof55.woff');
 }
 
 * {
